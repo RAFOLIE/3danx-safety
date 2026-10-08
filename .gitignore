@@ -1,0 +1,31 @@
+# Local runtime data and private audit material
+Backups/
+backups/
+validation/
+dist/
+settings.ini
+installation.json
+*.log
+*.previous
+*.infected-backup
+*.infected-backup.*
+*.pdb
+*.zip
+*.tmp
+*.bak
+*.max
+*.MAX
+*.mx
+*.fbx
+*.FBX
+*.obj
+*.3ds
+*.psd
+*.tga
+*.mse
+
+# Editor and OS files
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini

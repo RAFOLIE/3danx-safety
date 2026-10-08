@@ -1,0 +1,6 @@
+* text=auto
+*.ms text eol=crlf
+*.ps1 text eol=crlf
+*.cs text eol=crlf
+*.md text eol=lf
+*.dll binary
